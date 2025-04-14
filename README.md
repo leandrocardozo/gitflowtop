@@ -1,2 +1,2 @@
 # gitflowtop
-Alteração feita direto no github principal.
+Alteração feita direto no github browser principal.
